@@ -1,0 +1,6 @@
+{
+  "name": "Meu Aluguel",
+  "description": "Aplicativo para cadastro, envio de documentos e proposta de locação da casa em vila com 3 quartos em Itaquera, São Paulo (OLX 1524691859).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
